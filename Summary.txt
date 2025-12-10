@@ -1,0 +1,3 @@
+In Week 4, I learned how to create data visualizations using Matplotlib and Seaborn. Matplotlib helped me draw basic plots such as line charts, scatter plots, and histograms. Seaborn provided advanced visualizations like pairplots and heatmaps, which helped in understanding relationships between multiple variables.
+
+For the client project, I created a simple dashboard consisting of multiple plots arranged side-by-side. This helped me learn how to present insights visually in a clear and organized way. Overall, this week improved my ability to analyze data visually and communicate patterns effectively.

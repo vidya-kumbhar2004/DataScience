@@ -1,0 +1,14 @@
+During Week 1, I learned the basics of Python programming. 
+I practiced how to use variables, different data types, input and output statements, operators, and mathematical expressions. 
+I also understood how conditional statements like if and else work, and how to use loops such as for loops to repeat tasks.
+
+I wrote several small programs to strengthen these concepts, including a calculator, a temperature converter, 
+and scripts that check whether a number is even or odd and print a range of numbers. 
+These exercises helped me understand how logic flows in a program.
+
+For the Week 1 mini project, I created a temperature analysis script. 
+The program takes multiple temperature readings from the user, stores them, then calculates the average, highest, and lowest values. 
+This task helped me apply loops, lists, input handling, and basic built-in functions like sum(), max(), and min().
+
+Overall, Week 1 helped me understand the core foundations of Python and gave me confidence 
+to move further into data structures and data manipulation.

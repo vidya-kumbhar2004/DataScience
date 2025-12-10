@@ -1,0 +1,5 @@
+In Week 3, I learned how to use NumPy and Pandas for data manipulation and data analysis. I practiced creating NumPy arrays and performing mathematical operations such as mean, standard deviation, and broadcasting. This helped me understand how numerical data is efficiently processed in Python.
+
+I also worked with Pandas DataFrames to organize data in rows and columns. I learned how to load data, clean missing values using functions like fillna(), and create new columns. I practiced grouping data and calculating summary statistics, such as average values for each group.
+
+The client project involved cleaning a dataset by filling missing values and calculating averages for different categories. These tasks improved my understanding of data preprocessing and gave me hands-on experience in preparing real-world datasets for further analysis.
